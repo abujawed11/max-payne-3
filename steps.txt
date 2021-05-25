@@ -1,0 +1,4 @@
+Steps:
+1) git clone "Repsitory address" -> create local repository on desired location
+2) A local repository will be created, move the desire file in the local rpository using copy paste.
+3) git status -> 
