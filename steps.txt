@@ -1,4 +1,9 @@
 Steps:
-1) git clone "Repsitory address" -> create local repository on desired location
-2) A local repository will be created, move the desire file in the local rpository using copy paste.
-3) git status -> 
+1.	git clone "Repository address" -> create local repository on desired location
+2.	A local repository will be created, move the desire file in the local repository using copy paste.
+3.	git status -> shows the status of current repository
+4.	git add file -> add the file moved into the local repository to staging area
+5.	git commit -m ‘any message’ -> adds the changes to local version control database
+6.	git log -> log of all our commit history
+7.	git push -> push the committed changes to remote server
+8.	git difftool -> shows difference between local changes and previous version of file
